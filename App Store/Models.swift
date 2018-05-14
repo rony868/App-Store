@@ -1,9 +1,9 @@
 //
-//  Models.swift
-//  appstore1
+//  ViewController.swift
+//  App Store
 //
-//  Created by Brian Voong on 3/21/16.
-//  Copyright © 2016 letsbuildthatapp. All rights reserved.
+//  Created by Md.Rasheduzzaman on 1/16/17.
+//  Copyright © 2017 codertuts. All rights reserved.
 //
 
 import UIKit
